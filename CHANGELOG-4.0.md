@@ -1,7 +1,7 @@
 CHANGELOG for 4.0.x
 ===================
 
-This changelog references the relevant changes (bug and security fixes) done
+This changelog references the relevant changes (bug and securit fixes) done
 in 4.0 minor versions.
 
 To get the diff for a specific change, go to https://github.com/symfony/symfony/commit/XXX where XXX is the change hash
