@@ -201,7 +201,7 @@ To get the diff between two versions, go to https://github.com/symfony/symfony/c
  * feature #30625 [HttpKernel] add RealHttpKernel: handle requests with HttpClientInterface (fabpot)
  * feature #30508 [Routing] Exposed "utf8" option, defaults "locale" and "format" in configuration (Jules Pietri)
  * feature #28920 [EventDispatcher] swap arguments of dispatch() to allow registering events by FQCN (nicolas-grekas)
- * feature #30605 [Cache] added DSN support for rediss in AbstractAdapter and RedisTrait (alex-vasilchenko-md)
+ * feature #30605 [Cache] added DSN support for redis in AbstractAdapter and RedisTrait (alex-vasilchenko-md)
  * feature #30604 [HttpClient] add MockHttpClient (nicolas-grekas)
  * feature #21035 [FrameworkBundle] Deprecate the Templating component integration (dunglas, fabpot)
  * feature #30567 [HttpClient] exceptions carry response (antonch1989)
